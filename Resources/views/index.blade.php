@@ -506,9 +506,6 @@ html.ap-light .ap-wrap:not(.ap-glass-mode) {
 
   </div>{{-- /ap-dynamic-content --}}
 
-  <div style="text-align:center;padding:24px 0 8px;font-size:0.72rem;color:var(--ap-muted);font-family:var(--ap-font-body);letter-spacing:0.02em;">
-    Airline Pulse — crafted with ♥ in Germany by <a href="https://github.com/MANFahrer-GF" target="_blank" rel="noopener" style="color:var(--ap-cyan);text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Thomas Kant</a>
-  </div>
 </div>
 
 {{-- ═══ JAVASCRIPT ═══ --}}

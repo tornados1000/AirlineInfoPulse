@@ -393,9 +393,5 @@ $dailyFlights = $gc['daily_goal_flights'] ?? 3;
     </a>
   </div>
 
-  <div style="text-align:center;padding:8px 0 16px;font-size:0.72rem;color:var(--apg-text-sub);letter-spacing:0.02em;">
-    Airline Pulse — crafted with ♥ in Germany by <a href="https://github.com/MANFahrer-GF" target="_blank" rel="noopener" style="color:var(--apg-cyan);text-decoration:none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Thomas Kant</a>
-  </div>
-
 </div>
 @endsection
